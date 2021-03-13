@@ -1,0 +1,65 @@
+Limpar o chao-20-1-1/7/2019-1/12/2020-2
+Fazer Maquete-20-2-2/5/2018-11/7/2019-2
+Criar bluetooth-20-2-21/3/2018-1/7/2020-1
+Desenvolver firmware-20-3-12/12/2019-17/1/2021-3
+Gestao Papelada-20-3-10/3/2016-1/7/2020-3
+Logistica-20-3-1/7/2019-19/12/2019-4
+Limpar o chao-20-1-1/7/2019-1/12/2020-2
+Fazer Maquete-20-2-2/5/2018-11/7/2019-2
+Fazer outra maquete-20-2-3/7/2019-31/12/2019-2
+Limpar o quadro-20-1-5/7/2019-3/7/2020-2
+Limpar a sala-20-1-6/7/2019-10/10/2020-2
+Configurar servidor-20-2-10/10/2019-3/4/2020-2
+Construir programa-20-2-12/12/2019-20/9/2020-2
+Construir calendario reunioes-20-2-10/11/2019-3/4/2020-2
+Avaliacao pessoas-30-2-10/10/2019-20/9/2020-2
+Fazer contabilidade-3-1-15/11/2019-12/10/2020-2
+Criar bluetooth-20-2-21/3/2018-1/7/2020-1
+Repor automoveis-20-3-30/11/2018-5/20/2019-1
+Comprar pcs-20-3-25/10/2018-15/7/2019-1
+Comprar telemoveis-20-3-10/9/2018-30/12/2018-1
+Mudar o chao-20-1-10/4/2018-30/4/2020-1
+Desenvolver app-20-2-5/5/2018-20/6/2020-1
+Programar cliente-20-2-10/6/2018-20/5/2020-1
+Criar novo produto-20-3-15/5/2018-10/5/2020-1
+Criar novo server-20-2-20/6/2018-15/4/2020-1
+Criar nova estrutura-20-2-30/7/2018-20/4/2020-1
+Desenvolver firmware-20-3-12/12/2019-17/1/2021-3
+Gestao Papelada-20-3-10/3/2020-1/7/2021-3
+Gerir pessoas-20-3-12/3/2020-5/7/2020-3
+Gestao dos ficheiros-20-3-15/5/2020-3/7/2020-3
+Recursos humanos-50-3-17/7/2020-30/7/2020-3
+Repor stock-20-3-7/7/2019-14/12/2019-5
+Fazer download-30-2-8/8/2019-13/12/2019-6
+Programar atividades-20-2-9/9/2019-12/12/2019-6
+Construir jogo-35-2-10/10/2019-11/12/2019-7
+Construir app-30-3-11/10/2019-10/12/2019-8
+Construir site-20-2-12/10/2019-9/12/2019-9
+Programar reunioes-20-2-13/10/2019-8/12/2019-10
+Construir blog-30-3-14/10/2019-15/11/2019-11
+Gestao horarios-30-3-20/10/2020-20/11/2020-3
+Mudar de interface-20-1-30/8/2020-5/10/2010-3
+Fazer interface-20-1-1/1/2020-30/4/2020-3
+Mudar cores-20-1-20/5/2020-20/12/2020-3
+Comprar canetas-20-1-13/3/2020-15/7/2020-3
+Logistica-20-3-1/7/2019-19/12/2019-4
+Criar interface-20-1-5/7/2019-15/12/2019-4
+Repor stock-20-3-7/7/2019-14/12/2019-4
+Fazer download-30-2-8/8/2019-13/12/2019-4
+Programar atividades-20-2-9/9/2019-12/12/2019-4
+Construir jogo-35-2-10/10/2019-11/12/2019-4
+Construir app-30-3-11/10/2019-10/12/2019-12
+Construir site-20-2-12/10/2019-9/12/2019-4
+Programar reunioes-20-2-13/10/2019-8/12/2019-4
+Construir blog-30-3-14/10/2019-15/11/2019-4
+Comprar telemoveis-20-3-10/9/2018-30/12/2018-11
+Mudar o chao-20-1-10/4/2019-30/4/2020-7
+Desenvolver app-20-2-5/5/2018-20/6/2020-11
+Programar cliente-20-2-10/6/2018-20/5/2020-11
+Criar novo produto-20-3-15/5/2019-10/5/2020-7
+Criar novo server-20-2-20/6/2019-15/4/2020-7
+Criar nova estrutura-20-2-30/7/2019-20/4/2020-8
+Configurar servidor-20-2-10/10/2019-3/4/2020-8
+Construir programa-20-2-12/12/2019-20/9/2020-9
+Construir calendario reunioes-20-2-10/11/2019-3/4/2020-9
+Avaliacao pessoas-30-2-10/10/2019-20/9/2020-12
